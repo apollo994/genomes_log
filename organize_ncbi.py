@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # This script takes a unzipped ncbi datasets folder and a taget location
 # The ncbi folder is copied into the target folder following the 
 # species/assembly/file structure. Additionally metadata are saved.
