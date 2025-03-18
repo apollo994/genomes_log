@@ -1,0 +1,9 @@
+Snapshot of: genomes_log/snapshot/
+==================================================
+Number of species (first-level folders): 0
+Total size of the folder: 0.00 GB (48491 bytes)
+==================================================
+/
+    snapshot_2025-02-11_16-40-19.txt
+    snapshot_2025-02-04_17-08-11.txt
+    snapshot_2025-02-11_17-03-31.txt
