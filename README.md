@@ -1,8 +1,8 @@
 # genomes_log
-A set of scripts to automate the dowload and tracking of assembles and annotations in a shared file system
+A set of scripts to automate the download and tracking of assemblies and annotations.
 
 ### organize_ncbi.py
-This script takes a unzipped ncbi datasets folder and a target location. The ncbi folder is copied into the target folder following the `target_folder/species/assembly/file` structure. Additionally metadata are saved. Currently the scripts only works with *fna and *gff3 files.
+This script takes an unzipped ncbi datasets folder and a target location. The ncbi folder is copied into the target folder following the `target_folder/species/assembly/file` structure. Additionally metadata are saved. Currently the scripts only works with *fna and *gff3 files.
 
 #### Dependencies 
 - [NCBI dataset API](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/)
